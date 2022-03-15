@@ -47,6 +47,8 @@ public class Vehicle implements AbsVehicle, Serializable {
         public String getFuelType() {
             return fuelType;
         }
+        
+      
     }
 
     public long getId() {
